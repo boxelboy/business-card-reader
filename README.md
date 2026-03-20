@@ -1,4 +1,4 @@
-# Business Card Reader (Vue 3)
+# Business Card Reader
 
 Vue 3 app that:
 
